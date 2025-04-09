@@ -1,0 +1,19 @@
+#main 
+{
+    /* background-color: red; */
+    background-image: url("Img1.jpg");
+    width: 100vw;
+    border: 10px solid black;
+    border-radius: 5px;
+
+}
+
+#introHeading
+{
+}
+
+body
+{
+    padding: 0;
+    margin: 0;
+}
